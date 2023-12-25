@@ -1,0 +1,7 @@
+Este módulo contém exemplos de Variáveis, tomada de decisão e Laços de Repetição
+
+Legenda de Arquivos:
+aula01 => Conceituação e tipos de Variáveis
+aula02-03 => Tomada de decisão com IF
+aula04 => Laço de repetição While
+aula05 => Laço de repetição For
