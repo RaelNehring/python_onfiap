@@ -1,0 +1,7 @@
+Este módulo contém exemplos de Manipulação de Listas, Funções e Módulos
+
+Legenda de Arquivos:
+aula01 => Trabalhando com listas
+aula02 => Listas Múltiplas e índices
+aula03 => Inserção e busca de dados, lista dentro de lista e funções numéricas
+aula04 => Funções e modularização
