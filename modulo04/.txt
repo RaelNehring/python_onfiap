@@ -2,3 +2,8 @@ Este módulo contém exemplos de Variáveis, tomada de decisão e Laços de Repe
 
 Legenda de Arquivos:
 aula01 => Criando arquivos com Python
+aula02 => Leitura de arquivos
+aula03 => Salvando um dicionário em arquivo
+aula04 => Manipulando Strings
+aula05 => Buscado e manipulando dados em strings
+aula06 => Trabalhando com dados de terceiros (exemplo com arquivo .csv)
