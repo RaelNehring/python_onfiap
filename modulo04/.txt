@@ -1,0 +1,4 @@
+Este módulo contém exemplos de Variáveis, tomada de decisão e Laços de Repetição
+
+Legenda de Arquivos:
+aula01 => Criando arquivos com Python
