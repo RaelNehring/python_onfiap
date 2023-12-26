@@ -1,0 +1,6 @@
+Este módulo contém exemplos de Manipulação de Dicionário de dados e Tuplas
+
+Legenda de Arquivos:
+aula01 => Um exemplo simples de Dicionário
+aula02 => Mais um exemplo de Dicionário
+aula03 => Tupla-um dicionário imutável
